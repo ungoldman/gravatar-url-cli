@@ -9,7 +9,7 @@ Get a [Gravatar](https://en.wikipedia.org/wiki/Gravatar) URL for an email from t
 
 [1]: https://img.shields.io/npm/v/gravatar-url-cli.svg?style=flat-square
 [2]: https://www.npmjs.com/package/gravatar-url-cli
-[3]: https://img.shields.io/travis/ungoldman/gravatar-url-cli/gh-pages.svg?style=flat-square
+[3]: https://img.shields.io/travis/ungoldman/gravatar-url-cli.svg?style=flat-square
 [4]: https://travis-ci.org/ungoldman/gravatar-url-cli
 [5]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 [6]: http://standardjs.com/
