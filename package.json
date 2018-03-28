@@ -1,0 +1,33 @@
+{
+  "name": "gravatar-url-cli",
+  "description": "Get a Gravatar URL for an email from the command line.",
+  "version": "0.0.0",
+  "author": "Nate Goldman <ungoldman@gmail.com>",
+  "bin": "index.js",
+  "bugs": {
+    "url": "https://github.com/ungoldman/gravatar-url-cli/issues"
+  },
+  "dependencies": {
+    "cliclopts": "^1.1.1",
+    "gravatar-url": "^2.0.0",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "homepage": "https://github.com/ungoldman/gravatar-url-cli",
+  "keywords": [
+    "cli",
+    "gravatar",
+    "url"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungoldman/gravatar-url-cli.git"
+  },
+  "scripts": {
+    "test": "standard"
+  }
+}
