@@ -7,13 +7,13 @@ Get a [Gravatar](https://en.wikipedia.org/wiki/Gravatar) URL for an email from t
 [![standard][5]][6]
 [![downloads][7]][2]
 
-[1]: https://img.shields.io/npm/v/gravatar-url-cli.css.svg?style=flat-square
-[2]: https://www.npmjs.com/package/gravatar-url-cli.css
-[3]: https://img.shields.io/travis/ungoldman/gravatar-url-cli.css/gh-pages.svg?style=flat-square
-[4]: https://travis-ci.org/ungoldman/gravatar-url-cli.css
+[1]: https://img.shields.io/npm/v/gravatar-url-cli.svg?style=flat-square
+[2]: https://www.npmjs.com/package/gravatar-url-cli
+[3]: https://img.shields.io/travis/ungoldman/gravatar-url-cli/gh-pages.svg?style=flat-square
+[4]: https://travis-ci.org/ungoldman/gravatar-url-cli
 [5]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 [6]: http://standardjs.com/
-[7]: https://img.shields.io/npm/dm/gravatar-url-cli.css.svg?style=flat-square
+[7]: https://img.shields.io/npm/dm/gravatar-url-cli.svg?style=flat-square
 
 This is just a command line interface wrapper around the [`gravatar-url`](https://github.com/sindresorhus/gravatar-url) package.
 
